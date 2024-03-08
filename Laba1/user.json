@@ -1,0 +1,34 @@
+ {
+    "person1": {
+    "FirstnName": "Jane",
+    "LastName": "Doe",
+    "Age": 30,
+    "Email": "Jan4ik@gmai.com",
+    "Languages": [
+      {"Title": "JS", "Level": "Pro"},
+      {"Title": "NodeJS", "Level": "Beginner"}
+    ]
+    },
+
+    "person2": {
+    "FirstnName": "Vova",
+    "LastName": "Mak",
+    "Age": 20,
+    "Email": "mak03@gmail.com",
+    "Languages": [
+      {"Title": "JS", "Level": "Middle"},
+      {"Title": "NodeJS", "Level": "Beginner"}
+    ]
+    },
+
+    "person3": {
+    "FirstnName": "Vlad",
+    "LastName": "Kar",
+    "Age": 19,
+    "Email": "vlados@gmail.com",
+    "Languages": [
+      {"Title": "JS", "Level": "Beginner"},
+      {"Title": "NodeJS", "Level": "Beginner"}
+    ]
+    }
+ }
